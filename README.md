@@ -64,5 +64,139 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-jithox-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://jithox.com/
+Jithox provides practical AI-powered products and tools aimed at automating back‑office tasks, offering both free and paid services. Their platform includes a catalog of AI tasks such as bank‑detail change checks and invoice reviews, with clear pricing and a developer portal for integration. The company emphasizes transparency with accessible documentation, trust resources, and a focus on practical AI applications for businesses.
+
+**Areas:** Company · AI · Automation · BackOffice · Tools
+
+## jithox-com on APIs.io
+
+Everything profiled for jithox-com is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/jithox-com/](https://apis.io/providers/jithox-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (5)
+
+- [jithox-com Iban API](https://apis.io/apis/jithox-com/jithox-com-iban-api/) — The Iban API from jithox-com — 1 operation(s) for iban.
+- [jithox-com Invoice API](https://apis.io/apis/jithox-com/jithox-com-invoice-api/) — The Invoice API from jithox-com — 1 operation(s) for invoice.
+- [jithox-com Payment API](https://apis.io/apis/jithox-com/jithox-com-payment-api/) — The Payment API from jithox-com — 1 operation(s) for payment.
+- [jithox-com Peppol API](https://apis.io/apis/jithox-com/jithox-com-peppol-api/) — The Peppol API from jithox-com — 1 operation(s) for peppol.
+- [jithox-com Vat API](https://apis.io/apis/jithox-com/jithox-com-vat-api/) — The Vat API from jithox-com — 1 operation(s) for vat.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Jithox Com Agentic Access](https://apis.io/agentic-access/jithox-com/jithox-com-agentic-access/)
+
+#### JSON Schema (6)
+
+The data models the API reads and writes.
+
+- [InvoiceReviewResponse](https://apis.io/schemas/jithox-com/jithox-com-invoice-review-response/)
+- [LookupPeppolParticipantRequest](https://apis.io/schemas/jithox-com/jithox-com-lookup-peppol-participant-request/)
+- [PreflightPaymentRequest](https://apis.io/schemas/jithox-com/jithox-com-preflight-payment-request/)
+- [VerifyIbanRequest](https://apis.io/schemas/jithox-com/jithox-com-verify-iban-request/)
+- [VerifyRequest](https://apis.io/schemas/jithox-com/jithox-com-verify-request/)
+- [VerifyResponse](https://apis.io/schemas/jithox-com/jithox-com-verify-response/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Jithox Com Context](https://apis.io/jsonld/jithox-com/jithox-com-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [jithox-com API Rules](https://apis.io/rules/jithox-com/jithox-com-rules/)
+
+#### Security (4)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Jithox Com Authentication](https://apis.io/security/jithox-com/jithox-com-authentication/)
+- [Jithox Com Domain Security](https://apis.io/security/jithox-com/jithox-com-domain-security/)
+- [Jithox Com Trust Center](https://apis.io/security/jithox-com/jithox-com-trust-center/)
+- [Jithox Com Vulnerability Disclosure](https://apis.io/security/jithox-com/jithox-com-vulnerability-disclosure/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Jithox Com Plans Pricing](https://apis.io/plans/jithox-com/jithox-com-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://jithox.com/)
+- [Documentation](https://jithox.com/docs)
+- [Getting started](https://jithox.com/mcp)
+- [API reference](https://jithox.com/llms.txt)
+- [Pricing](https://jithox.com/mcp/pricing)
+- [Sign up](https://jithox.com/sign-up?return=mcp-account)
+- [Changelog](https://jithox.com/api/changelog/v1)
+- [Blog](https://jithox.com/blog)
+- [Security](https://jithox.com/trust)
+- [Compliance](https://jithox.com/trust)
+- [Terms of service](https://jithox.com/terms)
+- [Privacy policy](https://jithox.com/privacy)
+- [Status](https://jithox.com/status)
+
+## API Evangelist rating
+
+**Kin Score 71.8** — exemplar · rubric 0.25.0 · scored 2026-10-29
+
+| Facet | Score |
+|---|---|
+| Discoverability | 66.1 |
+| Contract quality | 65.9 |
+| Contract governance | 79.1 |
+| Operational transparency | 42.1 |
+| Developer ergonomics | 66.7 |
+| Access clarity | 88.9 |
+
+**Agent readiness 69.3** — agent-native
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | verified |
+| Error Semantics | verified |
+| OpenAPI Examples | verified |
+| Rate Limit Signal | verified |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | conformant |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+
+**Regulatory alignment 32.7** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/jithox-com/](https://apis.io/providers/jithox-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for jithox-com: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/jithox-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
